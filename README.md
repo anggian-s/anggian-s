@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anggian-s
-- 👀 I’m interested in competitive programming
+- 👀 I’m interested in Competitive Programming
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate for anything
 - 📫 How to reach me at my instagram account
